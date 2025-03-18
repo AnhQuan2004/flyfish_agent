@@ -27,7 +27,7 @@
     "@tavily/core": "0.0.2",
     "amqplib": "0.10.5",
     "better-sqlite3": "11.5.0",
-    "@anhquan03/client-direct": "^0.25.9",
+    "@anhquan03/client-direct": "^0.25.10",
     "custom-elizaos-plugin-aptos": "^0.1.14",
     "elizaos-plugin-gmove": "^0.1.3",
     "fs": "0.0.1-security",
