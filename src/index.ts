@@ -1,4 +1,4 @@
-import { DirectClient } from "custom-elizaos-client-direct-aptos";
+import { DirectClient } from "@anhquan03/client-direct";
 import {
   AgentRuntime,
   elizaLogger,
