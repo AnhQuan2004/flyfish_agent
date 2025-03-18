@@ -16,7 +16,7 @@ import { fileURLToPath } from "url";
 import { initializeDbCache } from "./cache/index.ts";
 import { character } from "./character.ts";
 import { startChat } from "./chat/index.ts";
-import { aptosPlugin, checkVerify, createBounty, giveInsightData } from "custom-elizaos-plugin-aptos"
+import { aptosPlugin, checkVerify, createBounty, giveInsightData } from "quanna-elizaos-plugin-aptos-flyfish"
 import { initializeClients } from "./clients/index.ts";
 import {
   getTokenForProvider,
